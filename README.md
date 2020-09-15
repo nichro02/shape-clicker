@@ -49,13 +49,7 @@ The next click should then start the process from beginning, turning the shape y
 
 Then the next click will be a circle again, then a square, etc. The process can repeat indefinitely.
 
-Use `$(event.currentTarget)` to target the clicked shape. Use the provided classes to give the shapes ... shape.
-
-# Hungry for More?
-
-- Dynamically generate the initial triangles using jQuery, and set the event listener (once) in the loop
-- Set a ‘mouseenter’ event on the shapes that changes the color of the shape to black
-- Set a ‘mouseleave’ event on the shapes that changes the color of the shape back to red
+Use `event.target` to target the clicked shape. Use the provided classes to give the shapes ... shape.
 
 <br>
 <hr>
