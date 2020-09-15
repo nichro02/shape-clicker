@@ -6,7 +6,7 @@ Type: Lab<br>
 Duration: 45<br>
 Creator: Thom Page <br>
 Adapted by: Sonyl Nagale <br/>
-Topics: jQuery `event.currentTarget`<br>
+Topics: Vanilla Javascript `<br>
 
 ---
 
