@@ -1,15 +1,15 @@
 # SHAPE CLICKER
 
 ---
+
 Title: Shape Clicker<br>
 Type: Lab<br>
 Duration: 45<br>
 Creator: Thom Page <br>
 Adapted by: Sonyl Nagale <br/>
-Topics: Vanilla Javascript `<br>
+Topics: Vanilla Javascript <br>
 
 ---
-
 
 ### Setup
 
@@ -22,7 +22,6 @@ In app.js, write the code to perform the following:
 _The page starts out like this_
 
 ![](https://i.imgur.com/X3y7Uqn.png)
-
 
 First, clicking on any shape turns the shape you clicked on into a circle:
 
@@ -51,7 +50,6 @@ The next click should then start the process from beginning, turning the shape y
 Then the next click will be a circle again, then a square, etc. The process can repeat indefinitely.
 
 Use `$(event.currentTarget)` to target the clicked shape. Use the provided classes to give the shapes ... shape.
-
 
 # Hungry for More?
 
